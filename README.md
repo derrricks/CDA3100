@@ -1,2 +1,1 @@
-# CDA3100
-Computer Architecture &amp; Organization
+CDA3100 - Projects for Computer Architecture & Organization
