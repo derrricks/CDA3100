@@ -3,5 +3,5 @@ CDA3100 - Projects for Computer Architecture & Organization
       - https://courses.missouristate.edu/KenVollmar/mars/download.htm
   
 # Assignment 1:
-  - Using the source code for the C program that students must assemble a matching MIPS assembly language program.
+  - Using the source code from the C program, students must assemble a matching MIPS assembly language program with the same functionality
   - Expected to assemble the "Test for valid input" and "Perform prime test" sections of the source code
