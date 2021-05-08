@@ -8,4 +8,4 @@ CDA3100 - Projects for Computer Architecture & Organization
   - Expected to assemble the "Test for valid input" and "Perform prime test" sections of the source code
 
 # Assignment 2 - Statistical Calculator:
-  - Functions include getMax, getMin, calcSum, and calcAverage
+  - Expected to assemble getMax, getMin, calcSum, and calcAverage functions
