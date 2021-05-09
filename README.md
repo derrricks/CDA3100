@@ -9,3 +9,6 @@ CDA3100 - Projects for Computer Architecture & Organization
 # Assignment 2 - Statistical Calculator:
   - Using the source code from the C program, assemble a matching MIPS assembly language program with the same functionality
   - Assembled getMax, getMin, calcSum, and calcAverage functions
+
+# Assignment 3 - MIPS-To-C Conversion:
+  - Using the source code from the MIPS program, assemble a C program with the same functionality
